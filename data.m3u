@@ -1,0 +1,551 @@
+#EXTM3U
+#EXTINF:0,<?xml version="1.0" encoding="UTF-8" ?>
+<Categories>
+#EXTINF:0,    <Name>Internet Radio</Name>
+    <Items>
+#EXTINF:0,        <Title>ClickFM - 1FM</Title>
+        <ShortDescriptionLine1>1FM</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://www.onefmonline.com</ShortDescriptionLine2>
+        <Poster>1fm.png</Poster>
+#EXTINF:0,        <StreamUrls>http://listen.clickfm.co.il/1FM</StreamUrls>
+        <StreamFormat>mp3</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+        <Audio>true</Audio>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>ClickFM - HipHop</Title>
+        <ShortDescriptionLine1>Click HipHop</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://www.radioclick.fm</ShortDescriptionLine2>
+        <Poster>clickfm_hiphop.png</Poster>
+#EXTINF:0,        <StreamUrls>http://listen.clickfm.co.il/hip.mp3</StreamUrls>
+        <StreamFormat>mp3</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+        <Audio>true</Audio>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>Radio Nostalgia</Title>
+        <ShortDescriptionLine2>See http://www.nostal.co.il</ShortDescriptionLine2>
+#EXTINF:0,        <Poster>nostalgia_radio.png</Poster>
+        <StreamUrls>http://194.213.4.197:8000/;</StreamUrls>
+#EXTINF:0,        <StreamFormat>mp3</StreamFormat>
+        <Live>true</Live>
+#EXTINF:0,        <Audio>true</Audio>
+    </Items>
+#EXTINF:0,</Categories>
+<Categories>
+#EXTINF:0,    <Name>Regional Radio</Name>
+    <Items>
+#EXTINF:0,        <Title>Radio Lelo Hafsaka - 103fm</Title>
+        <ShortDescriptionLine1>Radio Lelo Hafsaka - 103fm</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://103fm.maariv.co.il</ShortDescriptionLine2>
+        <Poster>103fm.png</Poster>
+#EXTINF:0,        <StreamUrls>http://acdn.streamgates.net/103fm</StreamUrls>
+        <StreamFormat>mp3</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+        <Audio>true</Audio>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>Radio TelAviv - 102fm</Title>
+        <ShortDescriptionLine1>Radio TelAviv - 102fm</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://www.102fm.co.il</ShortDescriptionLine2>
+        <Poster>telaviv102fm.png</Poster>
+#EXTINF:0,        <StreamUrls>http://102.livecdn.biz/102fm_aac</StreamUrls>
+        <StreamFormat>es.aac-adts</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+        <Audio>true</Audio>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>Radio Tishim (Radio Emtza Haderech) 90fm</Title>
+        <ShortDescriptionLine1>Radio Tishim - 90fm</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://www.90fm.co.il</ShortDescriptionLine2>
+        <Poster>90fm.png</Poster>
+#EXTINF:0,        <StreamUrls>http://90.cdnwz.net/90fm</StreamUrls>
+        <StreamFormat>mp3</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+        <Audio>true</Audio>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>Radio Lev Hamedina - 91fm</Title>
+        <ShortDescriptionLine1>Radio Lev Hamedina - 91fm</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://www.91fm.co.il</ShortDescriptionLine2>
+        <Poster>91fm.png</Poster>
+#EXTINF:0,        <StreamUrls>http://acdn.streamgates.net/91fm</StreamUrls>
+        <StreamFormat>mp3</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+        <Audio>true</Audio>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>Radio Darom - 95.8fm</Title>
+        <ShortDescriptionLine1>Radio Darom - 95.8fm</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See www.radiodarom.co.il</ShortDescriptionLine2>
+        <Poster>darom_95.png</Poster>
+#EXTINF:0,        <StreamUrls>http://audio-darom.ecast.co.il/darom97fm</StreamUrls>
+        <StreamFormat>mp3</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+        <Audio>true</Audio>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>Kol Rega - 96fm</Title>
+        <ShortDescriptionLine1>Kol Rega - 96fm</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://www.96fm.co.il/</ShortDescriptionLine2>
+        <Poster>kolrega_96fm.png</Poster>
+#EXTINF:0,        <StreamUrls>http://radio.streamgates.net/stream/KOLREGA</StreamUrls>
+        <StreamFormat>mp3</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+        <Audio>true</Audio>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>Radius - 100fm</Title>
+        <ShortDescriptionLine1>Radius - 100fm</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://www.100fm.co.il/</ShortDescriptionLine2>
+        <Poster>radius_100fm.png</Poster>
+#EXTINF:0,        <StreamUrls>http://acdn.streamgates.net/100fm</StreamUrls>
+        <StreamFormat>mp3</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+        <Audio>true</Audio>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>Eco - 99fm</Title>
+        <ShortDescriptionLine1>Eco - 99fm</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://eco99fm.maariv.co.il</ShortDescriptionLine2>
+        <Poster>eco99fm.png</Poster>
+#EXTINF:0,        <StreamUrls>http://eco-live.mediacast.co.il/99fm</StreamUrls>
+        <StreamFormat>mp3</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+        <Audio>true</Audio>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>Voice of the Red Sea - 102fm</Title>
+        <ShortDescriptionLine1>Voice of the Red Sea - 102fm Eilat</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://www.eilat102fm.com</ShortDescriptionLine2>
+        <Poster>redsea_102fm.png</Poster>
+#EXTINF:0,        <StreamUrls>http://eilat.cdnwz.net/102fm</StreamUrls>
+        <StreamFormat>mp3</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+        <Audio>true</Audio>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>Galil Radio - 105.3fm</Title>
+        <ShortDescriptionLine1>Galil Radio - 105.3fm</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See https://www.1053fm.co</ShortDescriptionLine2>
+        <Poster>galilradio_1053.png</Poster>
+#EXTINF:0,        <StreamUrls>http://radio.streamgates.net/stream/galil</StreamUrls>
+        <StreamFormat>mp3</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+        <Audio>true</Audio>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>Kol Yizrael - 106fm</Title>
+        <ShortDescriptionLine1>Kol Yizrael - 106fm</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See https://www.facebook.com/RadioKY106FM</ShortDescriptionLine2>
+        <Poster>KolYizrael106.png</Poster>
+#EXTINF:0,        <StreamUrls>http://radio.streamgates.net/stream/yezreel</StreamUrls>
+        <StreamFormat>mp3</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+        <Audio>true</Audio>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>Kol Ramat Hasharon - 103.6FM</Title>
+        <ShortDescriptionLine1>Kol Ramat Hasharon - 103.6FM</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://1036fm.co.il</ShortDescriptionLine2>
+        <Poster>ramat_hasharon_106fm.png</Poster>
+#EXTINF:0,        <StreamUrls>http://krh.cdnwz.net/1036</StreamUrls>
+        <StreamFormat>mp3</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+        <Audio>true</Audio>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>Radio Kol Ramla - 106fm</Title>
+        <ShortDescriptionLine1>Kol Ramla - 106fm</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://www.facebook.com/KolRamla</ShortDescriptionLine2>
+        <Poster>kol_ramla_106fm.png</Poster>
+#EXTINF:0,        <StreamUrls>http://84.94.229.99:5693/;</StreamUrls>
+        <StreamFormat>mp3</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+        <Audio>true</Audio>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>Kol Galim (Haifa) - 106fm</Title>
+        <ShortDescriptionLine1>Kol Galim (Haifa) - 106fm</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://www.kol-galim.co.il</ShortDescriptionLine2>
+        <Poster>kolgalim_106.png</Poster>
+#EXTINF:0,        <StreamUrls>http://switch2-streaming-212-83-eu.ilcast.com:8055/;</StreamUrls>
+        <StreamFormat>mp3</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+        <Audio>true</Audio>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>IDC Radio - 106.2fm</Title>
+        <ShortDescriptionLine1>IDC Radio - 106.2fm</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://1062fm.co.il</ShortDescriptionLine2>
+        <Poster>idc_radio.png</Poster>
+#EXTINF:0,        <StreamUrls>http://194.153.101.160:8000/idc123.mp3</StreamUrls>
+        <StreamFormat>mp3</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+        <Audio>true</Audio>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>Radio Haifa - 107.5fm</Title>
+        <ShortDescriptionLine1>Radio Haifa - 107.5fm</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://www.1075.fm</ShortDescriptionLine2>
+        <Poster>haifa_107.png</Poster>
+#EXTINF:0,        <StreamUrls>http://1075.livecdn.biz/radiohaifa</StreamUrls>
+        <StreamFormat>es.aac-adts</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+        <Audio>true</Audio>
+#EXTINF:0,    </Items>
+</Categories>
+#EXTINF:0,<Categories>
+    <Name>Nationwide Radio</Name>
+#EXTINF:0,    <Items>
+        <Title>Galatz - Army Radio</Title>
+#EXTINF:0,        <ShortDescriptionLine1>Galatz</ShortDescriptionLine1>
+        <ShortDescriptionLine2>See http://glz.co.il</ShortDescriptionLine2>
+#EXTINF:0,        <Poster>glz.png</Poster>
+        <StreamUrls>http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz</StreamUrls>
+#EXTINF:0,        <StreamFormat>mp3</StreamFormat>
+        <Live>true</Live>
+#EXTINF:0,        <Audio>true</Audio>
+    </Items>
+#EXTINF:0,    <Items>
+        <Title>Galgalatz - Army Radio (music)</Title>
+#EXTINF:0,        <ShortDescriptionLine1>Galgalatz</ShortDescriptionLine1>
+        <ShortDescriptionLine2>See http://glz.co.il</ShortDescriptionLine2>
+#EXTINF:0,        <Poster>galgalatz.png</Poster>
+        <StreamUrls>http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz</StreamUrls>
+#EXTINF:0,        <StreamFormat>mp3</StreamFormat>
+        <Live>true</Live>
+#EXTINF:0,        <Audio>true</Audio>
+    </Items>
+#EXTINF:0,    <Items>
+        <Title>Israeli Public Broadcasting Corporation - 88 FM</Title>
+#EXTINF:0,        <ShortDescriptionLine1>88 FM</ShortDescriptionLine1>
+        <ShortDescriptionLine2>See http://www.kan.org.il</ShortDescriptionLine2>
+#EXTINF:0,        <Poster>ipbc_radio_88.png</Poster>
+        <StreamUrls>https://kanlivep2event-i.akamaihd.net/hls/live/749623/749623/playlist.m3u8</StreamUrls>
+#EXTINF:0,        <StreamFormat>hls</StreamFormat>
+        <Live>true</Live>
+#EXTINF:0,        <Audio>true</Audio>
+    </Items>
+#EXTINF:0,    <Items>
+        <Title>Israeli Public Broadcasting Corporation - Kol HaMusica</Title>
+#EXTINF:0,        <ShortDescriptionLine1>Kol HaMusica</ShortDescriptionLine1>
+        <ShortDescriptionLine2>See http://www.kan.org.il</ShortDescriptionLine2>
+#EXTINF:0,        <Poster>ipbc_radio_musika.png</Poster>
+        <StreamUrls>https://kanlivep2event-i.akamaihd.net/hls/live/749627/749627/playlist.m3u8</StreamUrls>
+#EXTINF:0,        <StreamFormat>hls</StreamFormat>
+        <Live>true</Live>
+#EXTINF:0,        <Audio>true</Audio>
+    </Items>
+#EXTINF:0,    <Items>
+        <Title>Israeli Public Broadcasting Corporation - Tarbut</Title>
+#EXTINF:0,        <ShortDescriptionLine1>Tarbut (Culture)</ShortDescriptionLine1>
+        <ShortDescriptionLine2>See http://www.kan.org.il</ShortDescriptionLine2>
+#EXTINF:0,        <Poster>ipbc_radio_tarbut.png</Poster>
+        <StreamUrls>https://kanlivep2event-i.akamaihd.net/hls/live/749634/749634/playlist.m3u8</StreamUrls>
+#EXTINF:0,        <StreamFormat>hls</StreamFormat>
+        <Live>true</Live>
+#EXTINF:0,        <Audio>true</Audio>
+    </Items>
+#EXTINF:0,    <Items>
+        <Title>Israeli Public Broadcasting Corporation - Reshet Bet</Title>
+#EXTINF:0,        <ShortDescriptionLine1>Reshet Bet</ShortDescriptionLine1>
+        <ShortDescriptionLine2>See http://www.kan.org.il</ShortDescriptionLine2>
+#EXTINF:0,        <Poster>ipbc_radio_bet.png</Poster>
+        <StreamUrls>https://kanlivep2event-i.akamaihd.net/hls/live/749624/749624/playlist.m3u8</StreamUrls>
+#EXTINF:0,        <StreamFormat>hls</StreamFormat>
+        <Live>true</Live>
+#EXTINF:0,        <Audio>true</Audio>
+    </Items>
+#EXTINF:0,    <Items>
+        <Title>Israeli Public Broadcasting Corporation - Reshet Gimmel</Title>
+#EXTINF:0,        <ShortDescriptionLine1>Reshet Gimmel</ShortDescriptionLine1>
+        <ShortDescriptionLine2>See http://www.kan.org.il</ShortDescriptionLine2>
+#EXTINF:0,        <Poster>ipbc_radio_gimmel.png</Poster>
+        <StreamUrls>https://kanlivep2event-i.akamaihd.net/hls/live/749625/749625/playlist.m3u8</StreamUrls>
+#EXTINF:0,        <StreamFormat>hls</StreamFormat>
+        <Live>true</Live>
+#EXTINF:0,        <Audio>true</Audio>
+    </Items>
+#EXTINF:0,    <Items>
+        <Title>Israeli Public Broadcasting Corporation - Moreshet</Title>
+#EXTINF:0,        <ShortDescriptionLine1>Reshet Moreshet</ShortDescriptionLine1>
+        <ShortDescriptionLine2>See http://www.kan.org.il</ShortDescriptionLine2>
+#EXTINF:0,        <Poster>ipbc_radio_moreshet.png</Poster>
+        <StreamUrls>https://kanlivep2event-i.akamaihd.net/hls/live/749629/749629/playlist.m3u8</StreamUrls>
+#EXTINF:0,        <StreamFormat>hls</StreamFormat>
+        <Live>true</Live>
+#EXTINF:0,        <Audio>true</Audio>
+    </Items>
+#EXTINF:0,</Categories>
+<Categories>
+#EXTINF:0,    <Name>Main TV</Name>
+    <Default>true</Default>
+#EXTINF:0,    <Items>
+        <ecpCode>ch1</ecpCode>
+#EXTINF:0,        <Title>Israeli Public Broadcasting Corporation - Kan 11</Title>
+        <ShortDescriptionLine1>Kan 11</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://www.kan.org.il</ShortDescriptionLine2>
+        <Poster>ipbc_tv_11.png</Poster>
+#EXTINF:0,        <StreamUrls>http://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8</StreamUrls>
+        <StreamUrls>https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_1.2k/chunklist.m3u8</StreamUrls>
+#EXTINF:0,        <StreamUrls>https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8</StreamUrls>
+        <StreamUrls>https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlybraZwz4QZsqRi1BLTXxew)/dm/3/x7wjmog/d/live-1.m3u8</StreamUrls>
+#EXTINF:0,        <strReplace>Global</strReplace>
+        <strReplace>LVM</strReplace>
+#EXTINF:0,        <StreamFormat>hls</StreamFormat>
+        <Live>true</Live>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>Keshet - CH12</Title>
+        <ShortDescriptionLine1>Keshet</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://www.mako.co.il</ShortDescriptionLine2>
+        <Poster>keshet12.png</Poster>
+#EXTINF:0,        <StreamUrls>http://keshethlslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/512033/CH2LIVE_HIGH/index.m3u8@@?b=100-1000&@@TICKET@@</StreamUrls>
+        <StreamUrls>http://keshethlslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/512035/CH2LIVE_LOW/index.m3u8@@?b=100-1000&@@TICKET@@</StreamUrls>
+#EXTINF:0,        <StreamFormat>hls</StreamFormat>
+        <Live>true</Live>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <ecpCode>ch10</ecpCode>
+        <Title>Reshet - Ch13</Title>
+#EXTINF:0,        <ShortDescriptionLine1>Reshet</ShortDescriptionLine1>
+        <ShortDescriptionLine2>See http://reshet.tv</ShortDescriptionLine2>
+#EXTINF:0,        <Poster>reshet_13.png</Poster>
+        <StreamUrls>http://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8</StreamUrls>
+#EXTINF:0,        <HttpHeaders>Referer:http://reshet.tv/</HttpHeaders>
+        <StreamFormat>hls</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+    </Items>
+#EXTINF:0,    <Items>
+        <ecpCode>ch14</ecpCode>
+#EXTINF:0,        <Title>Israel channel 14 (was 20)</Title>
+        <ShortDescriptionLine1>Now 14</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See https://www.now14.co.il/</ShortDescriptionLine2>
+        <Poster>now14.png</Poster>
+#EXTINF:0,        <StreamUrls>http://dvr.ch20-cdnwiz.com/hls/live.m3u8</StreamUrls>
+        <StreamUrls>http://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8</StreamUrls>
+#EXTINF:0,        <HttpHeaders>user-agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)</HttpHeaders>
+        <StreamFormat>hls</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+    </Items>
+#EXTINF:0,    <Items>
+        <ecpCode>ch2news</ecpCode>
+#EXTINF:0,        <Title>The news company stream</Title>
+        <ShortDescriptionLine1>Live only (see ch12)</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://reshet.tv/News_n/heb/news</ShortDescriptionLine2>
+        <Poster>news_co.png</Poster>
+#EXTINF:0,        <StreamUrls>http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8</StreamUrls>
+        <StreamUrls>http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8</StreamUrls>
+#EXTINF:0,        <StreamFormat>hls</StreamFormat>
+        <Live>true</Live>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>24 Music</Title>
+        <ShortDescriptionLine1>Arutz 24 - Israels music television</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://www.mako.co.il/music-24</ShortDescriptionLine2>
+        <Poster>music24.png</Poster>
+#EXTINF:0,        <StreamUrls>http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8?sd=10&b=200-2500&rebase=on</StreamUrls>
+        <StreamUrls>http://keshethlslive-lh.akamaihd.net@@MAKO:lp=@@/i/24live_1@195271/master.m3u8@@?b=200-2500&@@TICKET@@</StreamUrls>
+#EXTINF:0,        <StreamFormat>hls</StreamFormat>
+        <Live>true</Live>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>Sport 5 Radio</Title>
+        <ShortDescriptionLine1>Radio Arutz ha Sport (5)</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://radio.sport5.co.il</ShortDescriptionLine2>
+        <Poster>sport5radio.jpg</Poster>
+#EXTINF:0,        <StreamUrls>http://sport5-lh.akamaihd.net/i/radio5_0@65353/master.m3u8</StreamUrls>
+        <StreamFormat>hls</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+        <Audio>true</Audio>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>Ch23 - Educational TV</Title>
+        <ShortDescriptionLine1>Kan Chinuchit (23) - Israels educational television</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See https://www.kan.org.il/lists/?mainid=9</ShortDescriptionLine2>
+        <Poster>chinuchit23.png</Poster>
+#EXTINF:0,        <StreamUrls>https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8</StreamUrls>
+        <StreamFormat>hls</StreamFormat>
+#EXTINF:0,        <Live>false</Live>
+    </Items>
+#EXTINF:0,    <Items>
+        <Title>Knesset</Title>
+#EXTINF:0,        <ShortDescriptionLine1>Knesset channel</ShortDescriptionLine1>
+        <ShortDescriptionLine2>See http://main.knesset.gov.il/News/Broadcast</ShortDescriptionLine2>
+#EXTINF:0,        <Poster>knesset.png</Poster>
+        <StreamUrls>https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8</StreamUrls>
+#EXTINF:0,        <StreamFormat>hls</StreamFormat>
+        <Live>true</Live>
+#EXTINF:0,    </Items>
+</Categories>
+#EXTINF:0,<Categories>
+    <Name>Sometimes streams</Name>
+#EXTINF:0,    <Items>
+        <Title>YNet</Title>
+#EXTINF:0,        <ShortDescriptionLine1>YNet</ShortDescriptionLine1>
+        <ShortDescriptionLine2>See https://www.ynet.co.il</ShortDescriptionLine2>
+#EXTINF:0,        <Poster>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/1200px-Ynet_website_logo.svg.png</Poster>
+        <StreamUrls>https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8</StreamUrls>
+#EXTINF:0,        <StreamFormat>hls</StreamFormat>
+        <Live>true</Live>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>Walla News</Title>
+        <ShortDescriptionLine1>Walla News</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See https://news.walla.co.il</ShortDescriptionLine2>
+        <Poster>walla.png</Poster>
+#EXTINF:0,        <StreamUrls>http://walla-metadata-rr-d.vidnt.com/live/walla/ulpan/hls/metadata.xml</StreamUrls>
+        <StreamFormat>hls</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+    </Items>
+#EXTINF:0,    <Items>
+        <Title>Israel HaYom stream</Title>
+#EXTINF:0,        <ShortDescriptionLine1>Israel Today - Israel HaYom, OCCASIONAL live event stream</ShortDescriptionLine1>
+        <ShortDescriptionLine2>See https://www.israelhayom.co.il</ShortDescriptionLine2>
+#EXTINF:0,        <Poster>YisHayom.png</Poster>
+        <StreamUrls>https://live.israelhayom-cdnwiz.com/hls/live.m3u8</StreamUrls>
+#EXTINF:0,        <StreamFormat>hls</StreamFormat>
+        <Live>true</Live>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>Israels Big Brother</Title>
+        <ShortDescriptionLine1>Big Brother - HaAch HaGadol (Geo Blocked)</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See https://13tv.co.il/bb-livestream</ShortDescriptionLine2>
+        <Poster>bigbro.png</Poster>
+#EXTINF:0,        <StreamUrls>https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8</StreamUrls>
+        <StreamFormat>hls</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+    </Items>
+#EXTINF:0,</Categories>
+<Categories>
+#EXTINF:0,    <Name>Religious</Name>
+    <Items>
+#EXTINF:0,        <Title>Kabbalah TV - Arutz 66</Title>
+        <ShortDescriptionLine1>Kabbalah TV</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://kab.co.il</ShortDescriptionLine2>
+        <Poster>kab.png</Poster>
+#EXTINF:0,        <StreamUrls>http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8</StreamUrls>
+        <StreamFormat>hls</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+    </Items>
+#EXTINF:0,    <Items>
+        <Title>Meir TV</Title>
+#EXTINF:0,        <ShortDescriptionLine1>Meir TV</ShortDescriptionLine1>
+        <ShortDescriptionLine2>See http://www.meirtv.co.il</ShortDescriptionLine2>
+#EXTINF:0,        <Poster>meir.png</Poster>
+        <StreamUrls>http://82.80.198.100:1935/live/live1/playlist.m3u8</StreamUrls>
+#EXTINF:0,        <StreamFormat>hls</StreamFormat>
+        <Live>true</Live>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>Hidabrut</Title>
+        <ShortDescriptionLine1>Hidabrut</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://hidabrut.com</ShortDescriptionLine2>
+        <Poster>hidabrut.jpg</Poster>
+#EXTINF:0,        <StreamUrls>http://stream7.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8</StreamUrls>
+        <StreamFormat>hls</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+    </Items>
+#EXTINF:0,    <Items>
+        <Title>JBS TV</Title>
+#EXTINF:0,        <ShortDescriptionLine1>Jewish Broadcasting Service (US)</ShortDescriptionLine1>
+        <ShortDescriptionLine2>See http://jbstv.org</ShortDescriptionLine2>
+#EXTINF:0,        <Poster>jbs.png</Poster>
+        <StreamUrls>http://uni8rtmp.tulix.tv/shalomtv-pc/shalomtv.smil/playlist.m3u8</StreamUrls>
+#EXTINF:0,        <StreamFormat>hls</StreamFormat>
+        <Live>true</Live>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>JLTV TV</Title>
+        <ShortDescriptionLine1>Jewish Life TV (US)</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://jltv.tv</ShortDescriptionLine2>
+        <Poster>jltv.png</Poster>
+#EXTINF:0,        <StreamUrls>http://50.112.241.187:1935/rtplive/smil:jltv.smil/playlist.m3u8</StreamUrls>
+        <StreamFormat>hls</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+    </Items>
+#EXTINF:0,    <Items>
+        <Title>Kol Barama - 92.1fm</Title>
+#EXTINF:0,        <ShortDescriptionLine1>Kol Barama - 92.1fm</ShortDescriptionLine1>
+        <ShortDescriptionLine2>See http://www.kol-barama.co.il</ShortDescriptionLine2>
+#EXTINF:0,        <Poster>kolbarama_92.png</Poster>
+        <StreamUrls>http://server1.live1.co.il:8004/livemp3</StreamUrls>
+#EXTINF:0,        <StreamFormat>mp3</StreamFormat>
+        <Live>true</Live>
+#EXTINF:0,        <Audio>true</Audio>
+    </Items>
+#EXTINF:0,    <Items>
+        <Title>Kol Chai - 93fm</Title>
+#EXTINF:0,        <ShortDescriptionLine1>Kol Chai - 93fm</ShortDescriptionLine1>
+        <ShortDescriptionLine2>See http://www.kol-barama.co.il</ShortDescriptionLine2>
+#EXTINF:0,        <Poster>kol_chai_93fm.png</Poster>
+        <StreamUrls>http://switch2-streaming-212-83-eu.ilcast.com:8000</StreamUrls>
+#EXTINF:0,        <StreamFormat>mp3</StreamFormat>
+        <Live>true</Live>
+#EXTINF:0,        <Audio>true</Audio>
+    </Items>
+#EXTINF:0,</Categories>
+<Categories>
+#EXTINF:0,    <Name>Other Languages</Name>
+    <Items>
+#EXTINF:0,        <Title>Israeli Public Broadcasting Corporation - Kan 33</Title>
+        <ShortDescriptionLine1>Kan 33 (Arabic)</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See https://www.makan.org.il</ShortDescriptionLine2>
+        <Poster>ipbc_tv_33.png</Poster>
+#EXTINF:0,        <StreamUrls>https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/playlist.m3u8</StreamUrls>
+        <StreamFormat>hls</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+    </Items>
+#EXTINF:0,    <Items>
+        <Title>ILand</Title>
+#EXTINF:0,        <ShortDescriptionLine1>ILand TV (Russian)</ShortDescriptionLine1>
+        <ShortDescriptionLine2>See http://iland.tv</ShortDescriptionLine2>
+#EXTINF:0,        <Poster>iland.png</Poster>
+        <StreamUrls>https://w1.208.gostreaming.tv/ILAND/smil:iland.smil/playlist.m3u8</StreamUrls>
+#EXTINF:0,        <StreamUrls>https://58ceb41d8e384.streamlock.net/ILAND/smil:iland.smil/playlist.m3u8</StreamUrls>
+        <StreamUrls>http://58ceb41d8e384.streamlock.net:1935/live/myStream/playlist.m3u8</StreamUrls>
+#EXTINF:0,        <StreamFormat>hls</StreamFormat>
+        <Live>true</Live>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>The Voice of Peace - Classic</Title>
+        <ShortDescriptionLine1>Kol Hashalom / Voice of Peace - Classic</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://www.thevoiceofpeace.co.il</ShortDescriptionLine2>
+        <Poster>vop_radio.png</Poster>
+#EXTINF:0,        <StreamUrls>http://uk3-vn.mixstream.net:8264/;</StreamUrls>
+        <StreamFormat>mp3</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+        <Audio>true</Audio>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>The Voice of Peace - Original</Title>
+        <ShortDescriptionLine1>Kol Hashalom / Voice of Peace - Original</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://www.thevoiceofpeace.co.il</ShortDescriptionLine2>
+        <Poster>vop_radio.png</Poster>
+#EXTINF:0,        <StreamUrls>http://uk2-vn.mixstream.net:8004/;</StreamUrls>
+        <StreamFormat>mp3</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+        <Audio>true</Audio>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>Israeli Public Broadcasting Corporation - Arabic Radio</Title>
+        <ShortDescriptionLine1>Israeli Public Broadcasting Corporation - Arabic Radio</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://www.makan.org.il</ShortDescriptionLine2>
+        <Poster>ipbc_radio_arabic.png</Poster>
+#EXTINF:0,        <StreamUrls>https://kanlivep2event-i.akamaihd.net/hls/live/749628/749628/playlist.m3u8</StreamUrls>
+        <StreamFormat>hls</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+        <Audio>true</Audio>
+#EXTINF:0,    </Items>
+    <Items>
+#EXTINF:0,        <Title>Israel Broadcast Authority - Reka</Title>
+        <ShortDescriptionLine1>Reka - IPBC World Service (multilingual radio)</ShortDescriptionLine1>
+#EXTINF:0,        <ShortDescriptionLine2>See http://www.kan.org.il/live/radio.aspx?stationId=10</ShortDescriptionLine2>
+        <Poster>ipbc_radio_reka.png</Poster>
+#EXTINF:0,        <StreamUrls>https://kanlivep2event-i.akamaihd.net/hls/live/749633/749633/playlist.m3u8</StreamUrls>
+        <StreamFormat>hls</StreamFormat>
+#EXTINF:0,        <Live>true</Live>
+        <Audio>true</Audio>
+#EXTINF:0,    </Items>
+</Categories>
